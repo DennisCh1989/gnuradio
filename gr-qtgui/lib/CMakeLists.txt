@@ -94,6 +94,7 @@ set(qtgui_sources
     const_sink_c_impl.cc
     waterfall_sink_c_impl.cc
     waterfall_sink_f_impl.cc
+    waterfall_sink_pr_impl.cc
     histogram_sink_f_impl.cc
     number_sink_impl.cc
     qtgui_util.cc
